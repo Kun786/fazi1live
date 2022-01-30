@@ -1,4 +1,5 @@
 ### Hi there, I'm Muhammad Abdul Rehman - aka [fazi][website] 👋 
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://abdulrehman.info/)
 
 <!--
 **fazi1live/fazi1live** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
