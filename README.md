@@ -3,7 +3,7 @@
 ## `How To Reach Me?`
 [![Website](https://img.shields.io/website?label=MyPortfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://abdulrehman.info/)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rehman-304882148/)
-
+[![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+923234101934)
 
 <!--
 **fazi1live/fazi1live** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
