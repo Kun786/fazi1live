@@ -1,4 +1,6 @@
-### Hi there, My name is Muhammad Abdul Rehman aka [fazi]👋 
+### Hi there, My name is Muhammad Abdul Rehman aka fazi👋 
+
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `How To Reach Me?  `
 [![Website](https://img.shields.io/website?label=MyPortfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://abdulrehman.info/)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rehman-304882148/)
 
