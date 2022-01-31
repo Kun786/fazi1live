@@ -12,58 +12,58 @@ I'm a full-stack developer 👨‍💻 with 6+ years of extensive experience in 
 
 𝑾𝒉𝒚 𝑴𝒆⁉️
 <br>
-✅ I use the latest version of Angular2+ for building robust, adaptive, and optimized applications.<br>
-✅ I use Node.js with Express framework and RESTFul API architecture, and I use Socket.io as well. <br>
-✅ I prefer React Native for mobile application development.<br>
-✅ I can rapidly prototype ideas and maintain complex legacy codebases.<br>
-✅ For Mobile: React-Native | Third-party integration<br>
-✅ MVC, Web Application<br>
-✅ DevOps technologies like Docker, AWS, Digital Ocean, Heroku, Server Configuration via ssh, Github, 
+ I use the latest version of Angular2+ for building robust, adaptive, and optimized applications.<br>
+:heavy_check_mark: I use Node.js with Express framework and RESTFul API architecture, and I use Socket.io as well. <br>
+:heavy_check_mark: I prefer React Native for mobile application development.<br>
+:heavy_check_mark: I can rapidly prototype ideas and maintain complex legacy codebases.<br>
+:heavy_check_mark: For Mobile: React-Native | Third-party integration<br>
+:heavy_check_mark: MVC, Web Application<br>
+:heavy_check_mark: DevOps technologies like Docker, AWS, Digital Ocean, Heroku, Server Configuration via ssh, Github, 
  etc<br>
 
 
 𝗠𝘆 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝘀𝗸𝗶𝗹𝗹𝘀:<br>
-✅ HTML5 & CSS3<br>
-✅ Twitter bootstrap<br>
-✅ Angular2+ / React Native<br>
-✅ ES6<br>
-✅ UX/UI Designs using Html5, Css3, Bootstrap4 ,Ux/UI (Figma)<br>
-✅ Psd to Wireframing <br>
+:heavy_check_mark: HTML5 & CSS3<br>
+:heavy_check_mark: Twitter bootstrap<br>
+:heavy_check_mark: Angular2+ / React Native<br>
+:heavy_check_mark: ES6<br>
+:heavy_check_mark: UX/UI Designs using Html5, Css3, Bootstrap4 ,Ux/UI (Figma)<br>
+:heavy_check_mark: Psd to Wireframing <br>
 
 
 
 𝗠𝘆 𝗕𝗮𝗰𝗸-𝗘𝗻𝗱 𝘀𝗸𝗶𝗹𝗹𝘀:<br>
-✅ NodeJs / ExpressJs<br>
-✅ MongoDB <br>
-✅ Mongoose ODM<br>
-✅ Socket.io<br>
-✅ Jwt Authentication token<br>
-✅ RESTful API<br>
+:heavy_check_mark: NodeJs / ExpressJs<br>
+:heavy_check_mark: MongoDB <br>
+:heavy_check_mark: Mongoose ODM<br>
+:heavy_check_mark: Socket.io<br>
+:heavy_check_mark: Jwt Authentication token<br>
+:heavy_check_mark: RESTful API<br>
 
 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗧𝗼𝗼𝗹𝘀:<br>
-✅ Os: Ubuntu 20.0.4 Lts<br>
-✅ Mongo Compass<br>
-✅ VsCode<br>
-✅ Angular Cli<br>
-✅ NPM<br>
-✅ Postman For API Testing<br>
-✅ Mongo Atlas<br>
-✅ Git <br>
-✅ GitHub<br>
+:heavy_check_mark: Os: Ubuntu 20.0.4 Lts<br>
+:heavy_check_mark: Mongo Compass<br>
+:heavy_check_mark: VsCode<br>
+:heavy_check_mark: Angular Cli<br>
+:heavy_check_mark: NPM<br>
+:heavy_check_mark: Postman For API Testing<br>
+:heavy_check_mark: Mongo Atlas<br>
+:heavy_check_mark: Git <br>
+:heavy_check_mark: GitHub<br>
 
 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗧𝗼𝗼𝗹𝘀:<br>
-✅ Google Sheets<br>
-✅ Creatly (For Making DFD)<br>
-✅ Trello<br>
-✅ Discord<br>
-✅ Slack<br>
+:heavy_check_mark: Google Sheets<br>
+:heavy_check_mark: Creatly (For Making DFD)<br>
+:heavy_check_mark: Trello<br>
+:heavy_check_mark: Discord<br>
+:heavy_check_mark: Slack<br>
 
 𝗢𝘁𝗵𝗲𝗿 𝗦𝗸𝗶𝗹𝗹𝘀:<br>
-✅ Time Management<br>
-✅ Problem Solver<br>
-✅ Analytical Thinker<br>
-✅ Solutions to User Requirements<br>
-✅ Building Multiple Environment for Projects<br>
+:heavy_check_mark: Time Management<br>
+:heavy_check_mark: Problem Solver<br>
+:heavy_check_mark: Analytical Thinker<br>
+:heavy_check_mark: Solutions to User Requirements<br>
+:heavy_check_mark: Building Multiple Environment for Projects<br>
 
 
 <!--
