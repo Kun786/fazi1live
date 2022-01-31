@@ -92,8 +92,8 @@ I'm a full-stack developer 👨‍💻 with 6+ years of extensive experience in 
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Stats</h2>
 
-![Fazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazi1live&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazi1live&langs_count=8)](https://github.com/fazi1live/github-readme-stats)
+![Fazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazi1live&show_icons=true&theme=radical)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazi1live&langs_count=8 icons=true&theme=radical)](https://github.com/fazi1live/github-readme-stats)
 </p>
 
 
