@@ -92,6 +92,8 @@ I'm a full-stack developer 👨‍💻 with 6+ years of extensive experience in 
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Stats</h2>
 
+<a href="https://stackoverflow.com/users/12997209/abdul-rehman"><img src="https://stackexchange.com/users/flair/12257466.png?theme=dark" width="208" height="58" alt="profile for Aviv Lo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Muhammad Abdul Rehman on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 ![Fazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazi1live&show_icons=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazi1live&theme=radical)
 </p>
