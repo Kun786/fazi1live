@@ -1,6 +1,6 @@
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://abdulrehman.info/)
-[![linkedin Follow](https://img.shields.io/linkedin/follow/MuhammadAbdulRehman?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abdul-rehman-304882148/)
+[![linkedin](https://img.shields.io/linkedin/follow/MuhammadAbdulRehman?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abdul-rehman-304882148/)
 
 
 <!--
