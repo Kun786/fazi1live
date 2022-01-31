@@ -67,8 +67,8 @@ I'm a full-stack developer 👨‍💻 with 6+ years of extensive experience in 
 
 ### Languages and Tools
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][webdevplaylist]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png" />]
 
 <!--
 **fazi1live/fazi1live** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
