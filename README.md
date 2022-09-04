@@ -43,9 +43,9 @@ I'm a full-stack developer 👨‍💻 having 6+ years of experience in problem-
 
 𝗣𝗮𝘆𝗺𝗲𝗻𝘁 𝗴𝗮𝘁𝗲𝘄𝗮𝘆𝘀 𝗮𝗻𝗱 𝘁𝗵𝗶𝗿𝗱-𝗽𝗮𝗿𝘁𝘆 𝗹𝗶𝗯𝗿𝗮𝗿𝘆 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻: Paypal, Stripe, Coinbase, Personal Bank APi's, Email services integration, Google maps, USPS or any logistics services
 
-𝗢𝘁𝗵𝗲𝗿 𝗦𝗸𝗶𝗹𝗹𝘀: Time Management, Problem Solver, Analytical Thinker, Solutions to User Requirements, Environment Setup for Projects.
+𝗢𝘁𝗵𝗲𝗿 𝗦𝗸𝗶𝗹𝗹𝘀: Time Management, Problem Solver, Analytical Thinker, Solutions to User Requirements, Environment Setup for Projects.<br>
 <br>
-​𝑾𝒉𝒚 𝑴𝒆⁉️
+​𝑾𝒉𝒚 𝑴𝒆⁉️<br>
 <br>
 🚀Always​ fulfill​​​ client​'s​ expectation<br>
 🚀 ​Strong communication​ to avoid any critical requirement​<br>
