@@ -8,62 +8,64 @@
 ---
 
 ### About Me!
-I'm a full-stack developer 👨‍💻 with 6+ years of extensive experience in providing 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐯𝐞 and Dynamic 𝐖𝐞𝐛applications 𝐚𝐧𝐝 𝐌𝐨𝐛𝐢𝐥𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 with great unit testing. I offered timely managed qualitative projects that went through a comprehensive workflow designed by me to deliver the utmost satisfaction⭐, 𝘄𝗵𝗶𝗰𝗵 𝗶𝗻𝗰𝗹𝘂𝗱𝗲𝘀 𝗜𝗻𝘃𝗲𝘀𝘁𝗶𝗴𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗖𝗹𝗮𝗿𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻, 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗽𝗿𝗼𝗰𝗲𝘀𝘀, 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗔𝘀𝘀𝘂𝗿𝗮𝗻𝗰𝗲 𝗿𝗲𝘃𝗶𝗲𝘄, 𝗖𝗼𝗱𝗲 𝗿𝗲𝘃𝗶𝗲𝘄, 𝗧𝗲𝘀𝘁𝗶𝗻𝗴, 𝗮𝗻𝗱 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁.
+⭐⭐⭐⭐⭐ Stars Feedbacks Track Record
+🖥️ Overall 6+ Years of Experience
+🤝 Long term relationship with client
+⏰ offered timely managed qualitative projects that went through a comprehensive workflow designed
+🌟 Investigation and clarification of requirements
+💫💫 Development and Deployment , Quality Assurance review, Code review and Testing
 
-𝑾𝒉𝒚 𝑴𝒆⁉️
-<br>
- I use the latest version of Angular2+ for building robust, adaptive, and optimized applications.<br>
-:heavy_check_mark: I use Node.js with Express framework and RESTFul API architecture, and I use Socket.io as well. <br>
-:heavy_check_mark: I prefer React Native for mobile application development.<br>
-:heavy_check_mark: I can rapidly prototype ideas and maintain complex legacy codebases.<br>
-:heavy_check_mark: For Mobile: React-Native | Third-party integration<br>
-:heavy_check_mark: MVC, Web Application<br>
-:heavy_check_mark: DevOps technologies like Docker, AWS, Digital Ocean, Heroku, Server Configuration via ssh, Github, 
- etc<br>
+I'm a full-stack developer 👨‍💻 having 6+ years of experience in problem-solving, analysing, and visualising the requirements and programming skills to collectively build applications that helped people to ease and automate their business needs.
 
+✨✨✨ 𝗦𝘆𝗻𝗼𝗽𝘀𝗶𝘀 𝗼𝗳 𝗺𝘆 𝘄𝗼𝗿𝗸 ✨✨✨
 
-𝗠𝘆 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝘀𝗸𝗶𝗹𝗹𝘀:<br>
-:heavy_check_mark: HTML5 & CSS3<br>
-:heavy_check_mark: Twitter bootstrap<br>
-:heavy_check_mark: Angular2+ / React Native<br>
-:heavy_check_mark: ES6<br>
-:heavy_check_mark: UX/UI Designs using Html5, Css3, Bootstrap4 ,Ux/UI (Figma)<br>
-:heavy_check_mark: Psd to Wireframing <br>
+𝗙𝘂𝗹𝗹𝗦𝘁𝗮𝗰𝗸 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: MEAN (Angular2+, ExpressJs, MongoDB, NodeJs) 🟊 MSAN (Angular2+, NestJs, MongoDB, NodeJs)
 
+𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴-𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲: JavaScript and TypeScript
 
+𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗮𝗻𝗱 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: NodeJs, ExpressJs, NestJs, Mongoose ODM, Web sockets (Socket.io), JWT and Paseto Authentication, OAuth Autentication
 
-𝗠𝘆 𝗕𝗮𝗰𝗸-𝗘𝗻𝗱 𝘀𝗸𝗶𝗹𝗹𝘀:<br>
-:heavy_check_mark: NodeJs / ExpressJs<br>
-:heavy_check_mark: MongoDB <br>
-:heavy_check_mark: Mongoose ODM<br>
-:heavy_check_mark: Socket.io<br>
-:heavy_check_mark: Jwt Authentication token<br>
-:heavy_check_mark: RESTful API<br>
+𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: Angular2+
 
-𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗧𝗼𝗼𝗹𝘀:<br>
-:heavy_check_mark: Os: Ubuntu 20.0.4 Lts<br>
-:heavy_check_mark: Mongo Compass<br>
-:heavy_check_mark: VsCode<br>
-:heavy_check_mark: Angular Cli<br>
-:heavy_check_mark: NPM<br>
-:heavy_check_mark: Postman For API Testing<br>
-:heavy_check_mark: Mongo Atlas<br>
-:heavy_check_mark: Git <br>
-:heavy_check_mark: GitHub<br>
+𝗔𝗣𝗜 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲: RESTful and GraphQLUI and Libraries: Bootstrap5, CSS3, HTML5, Syncfusion ejs2, Material UI, Mobile APP UI Designing, Responsive designs and layouts
 
-𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗧𝗼𝗼𝗹𝘀:<br>
-:heavy_check_mark: Google Sheets<br>
-:heavy_check_mark: Creatly (For Making DFD)<br>
-:heavy_check_mark: Trello<br>
-:heavy_check_mark: Discord<br>
-:heavy_check_mark: Slack<br>
+𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: MongoDB, PostgreSQL, MySQL, Mongo Atlas
 
-𝗢𝘁𝗵𝗲𝗿 𝗦𝗸𝗶𝗹𝗹𝘀:<br>
-:heavy_check_mark: Time Management<br>
-:heavy_check_mark: Problem Solver<br>
-:heavy_check_mark: Analytical Thinker<br>
-:heavy_check_mark: Solutions to User Requirements<br>
-:heavy_check_mark: Building Multiple Environment for Projects<br>
+𝗖𝗹𝗼𝘂𝗱 𝗮𝗻𝗱 𝗛𝗼𝘀𝘁𝗶𝗻𝗴: Google, AWS, Azure, DigitalOcean, Heroku, Vercel, Netlify, GitHub pages
+
+𝗗𝗲𝘃𝗢𝗽𝘀: Ansible, Continuous Delivery, and Configuration Management, Docker, Kubernetes, Terraform for AWS Cloud Automation, CI/CD, Branch and source management on GitHub
+
+𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹: GitRepository and Hosting: Github, Microsoft Azure
+
+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁: Ubuntu 22.0.4 Lts, VsCOde, Angular CLI, NPM, Postman for API Testing, NodeJs, Swagger
+
+𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗧𝗼𝗼𝗹𝘀: Jira, Google Sheets, Trello, Microsoft Teams, Slack
+
+𝗣𝗮𝘆𝗺𝗲𝗻𝘁 𝗴𝗮𝘁𝗲𝘄𝗮𝘆𝘀 𝗮𝗻𝗱 𝘁𝗵𝗶𝗿𝗱-𝗽𝗮𝗿𝘁𝘆 𝗹𝗶𝗯𝗿𝗮𝗿𝘆 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻: Paypal, Stripe, Coinbase, Personal Bank APi's, Email services integration, Google maps, USPS or any logistics services
+
+𝗢𝘁𝗵𝗲𝗿 𝗦𝗸𝗶𝗹𝗹𝘀: Time Management, Problem Solver, Analytical Thinker, Solutions to User Requirements, Environment Setup for Projects.
+
+​𝑾𝒉𝒚 𝑴𝒆⁉️
+
+🚀Always​ fulfill​​​ client​'s​ expectation
+🚀 ​Strong communication​ to avoid any critical requirement​
+🚀 ​On-time Delivery​
+🚀 ​​Unlimited revision guaranteed
+🚀 ​​Available 24x7
+🚀 ​Always use best practices provided ​by the framework
+​​🚀 Optimization and Security are my top Priority​
+🚀​ Long-term relationship with the client​s
+
+===========
+𝙉𝙀𝙓𝙏 𝙎𝙏𝙀𝙋𝙎: 👇
+===========
+
+💥 If you think we might work well together, please feel free to contact me.💥
+
+𝙄 𝙬𝙤𝙪𝙡𝙙 𝙗𝙚 𝙝𝙖𝙥𝙥𝙮 𝙩𝙤 𝙝𝙚𝙖𝙧 𝙛𝙧𝙤𝙢 𝙮𝙤𝙪!
+
+𝐁𝐞𝐬𝐭,
+𝗠𝘂𝗵𝗮𝗺𝗺𝗮𝗱 𝗔𝗯𝗱𝘂𝗹 𝗥𝗲𝗵𝗺𝗮𝗻
 
 ### Languages and Tools:
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
