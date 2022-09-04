@@ -7,13 +7,13 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fazi1live/)
 ---
 
-### About Me!
-⭐⭐⭐⭐⭐ Stars Feedbacks Track Record
-🖥️ Overall 6+ Years of Experience
-🤝 Long term relationship with client
-⏰ offered timely managed qualitative projects that went through a comprehensive workflow designed
-🌟 Investigation and clarification of requirements
-💫💫 Development and Deployment , Quality Assurance review, Code review and Testing
+### About Me!<br>
+⭐⭐⭐⭐⭐ Stars Feedbacks Track Record<br>
+🖥️ Overall 6+ Years of Experience<br>
+🤝 Long term relationship with client<br>
+⏰ offered timely managed qualitative projects that went through a comprehensive workflow designed<br>
+🌟 Investigation and clarification of requirements<br>
+💫💫 Development and Deployment , Quality Assurance review, Code review and Testing<br>
 
 I'm a full-stack developer 👨‍💻 having 6+ years of experience in problem-solving, analysing, and visualising the requirements and programming skills to collectively build applications that helped people to ease and automate their business needs.
 
@@ -44,17 +44,17 @@ I'm a full-stack developer 👨‍💻 having 6+ years of experience in problem-
 𝗣𝗮𝘆𝗺𝗲𝗻𝘁 𝗴𝗮𝘁𝗲𝘄𝗮𝘆𝘀 𝗮𝗻𝗱 𝘁𝗵𝗶𝗿𝗱-𝗽𝗮𝗿𝘁𝘆 𝗹𝗶𝗯𝗿𝗮𝗿𝘆 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻: Paypal, Stripe, Coinbase, Personal Bank APi's, Email services integration, Google maps, USPS or any logistics services
 
 𝗢𝘁𝗵𝗲𝗿 𝗦𝗸𝗶𝗹𝗹𝘀: Time Management, Problem Solver, Analytical Thinker, Solutions to User Requirements, Environment Setup for Projects.
-
+<br>
 ​𝑾𝒉𝒚 𝑴𝒆⁉️
-
-🚀Always​ fulfill​​​ client​'s​ expectation
-🚀 ​Strong communication​ to avoid any critical requirement​
-🚀 ​On-time Delivery​
-🚀 ​​Unlimited revision guaranteed
-🚀 ​​Available 24x7
-🚀 ​Always use best practices provided ​by the framework
-​​🚀 Optimization and Security are my top Priority​
-🚀​ Long-term relationship with the client​s
+<br>
+🚀Always​ fulfill​​​ client​'s​ expectation<br>
+🚀 ​Strong communication​ to avoid any critical requirement​<br>
+🚀 ​On-time Delivery​<br>
+🚀 ​​Unlimited revision guaranteed<br>
+🚀 ​​Available 24x7<br>
+🚀 ​Always use best practices provided ​by the framework<br>
+​​🚀 Optimization and Security are my top Priority​<br>
+🚀​ Long-term relationship with the client​s<br>
 
 ===========
 𝙉𝙀𝙓𝙏 𝙎𝙏𝙀𝙋𝙎: 👇
